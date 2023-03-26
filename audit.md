@@ -53,3 +53,8 @@ Kwonjoonwoo Dex.sol swap 20
 High
 swap 함수 require 구문 두줄을 보면 token x 와 y 가 동시에 0일 때의 구분을 두지 않았다. ( || 로 묶여 있음) 
 따라서 이는 토큰풀의 비율을 망가뜨릴 수 있는 flash loan 공격의 대상이 될 수 있다. 
+
+
+
+### -
+Lending 은 발표 전까지 추가로 진행할 수 있도록 하겠습니다. 
